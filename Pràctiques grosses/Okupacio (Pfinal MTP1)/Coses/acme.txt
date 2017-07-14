@@ -1,0 +1,17 @@
+ab
+bc
+db
+cc
+bd
+cd
+00
+dc
+bb
+ab
+
+haxejar el joc:
+``
+__
+_`
+`_
+e_

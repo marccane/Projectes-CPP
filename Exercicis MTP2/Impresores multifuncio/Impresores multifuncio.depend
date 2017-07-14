@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1457045130 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\impresores multifuncio\main.cpp
+	<iostream>
+
+1457045186 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\impresores multifuncio\impresora.cpp
+	"Impresora.h"
+
+1457045186 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\impresores multifuncio\impresora.h
+

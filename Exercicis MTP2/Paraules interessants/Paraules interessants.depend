@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1458946064 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\paraules interessants\main.cpp
+	<iostream>
+	<fstream>
+	"Paraula.h"
+
+1458937350 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\paraules interessants\paraula.h
+	<string>
+
+1458943836 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\paraules interessants\paraula.cpp
+	<iostream>
+	"Paraula.h"
+

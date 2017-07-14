@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1456230293 source:c:\temp\prova\test2\punt2d.cpp
+	"Punt2D.h"
+	<cmath>
+
+1456230293 c:\temp\prova\test2\punt2d.h
+	<iostream>
+
+1457009891 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\test2\punt2d.cpp
+	"Punt2D.h"
+	<cmath>
+
+1456231688 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\test2\punt2d.h
+	<iostream>
+
+1457022936 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\test2\main.cpp
+	"Punt2D.h"
+	<iostream>
+
+1457022936 source:c:\users\markus\dropbox\sincronitzat\++\! meus\mtp2\perimetre\main.cpp
+	"Punt2D.h"
+	<iostream>
+
+1456231688 c:\users\markus\dropbox\sincronitzat\++\! meus\mtp2\perimetre\punt2d.h
+	<iostream>
+
+1457009891 source:c:\users\markus\dropbox\sincronitzat\++\! meus\mtp2\perimetre\punt2d.cpp
+	"Punt2D.h"
+	<cmath>
+

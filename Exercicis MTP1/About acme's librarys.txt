@@ -1,0 +1,5 @@
+Coses que no van a l'acme
+itoa, atoi ,to_string, <cmath>
+
+Coses que si que van:
+math.h, SSTREAM!!!

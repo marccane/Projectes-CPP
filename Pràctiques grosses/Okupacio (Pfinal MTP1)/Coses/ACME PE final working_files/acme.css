@@ -1,0 +1,1346 @@
+body { 
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	scrollbar-base-color: #FFFFFF; 
+	scrollbar-face-color: #009900; 
+	scrollbar-track-color: #F2F2F2; 
+	scrollbar-arrow-color: #FFFFFF;
+	scrollbar-highlight-color: #FFFFFF; 
+	scrollbar-3dlight-color: #009900; 
+	scrollbar-shadow-color: #FFFFFF;
+	scrollbar-darkshadow-color: #000000;
+}
+verificacio {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #009900;
+}
+.assignatura {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+	
+}
+.breadcrumb {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #666666;
+	text-decoration: none;
+}
+a.breadcrumb:active,
+a.breadcrumb:visited, 
+a.breadcrumb:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #666666;
+	text-decoration: none;
+}
+a.breadcrumb:hover {
+	font-weight: bold;
+	color: #009900;
+}
+.peu {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #666666;
+}
+.titol-verd {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #009900;
+	text-decoration: none;
+}
+.borde-caixa {
+	border: 1px solid #ececec;
+}
+.submenu {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+a.submenu:active,
+a.submenu:visited, 
+a.submenu:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+a.submenu:hover {
+	color: #009900;
+}
+a.submenu_selec:active,
+a.submenu_selec:visited, 
+a.submenu_selec:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FF443D;
+	text-decoration: none;
+}
+a.submenu_selec:hover {
+	color: #009900;
+}
+
+.contingut,
+.fitxer {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+}
+
+.contingut_sc {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+}
+.contingut-portada {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+}
+a.submenu-interior:active,
+a.submenu-interior:visited, 
+a.submenu-interior:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+}
+a.submenu-interior:hover {
+	color: #009900;
+}
+a.submenu_selec-interior:active,
+a.submenu_selec-interior:visited, 
+a.submenu_selec-interior:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FF443D;
+	text-decoration: none;
+}
+a.submenu_selec-interior:hover {
+	color: #009900;
+}	
+.login {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+.Benvingut {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #ffffff;
+	text-decoration: none;
+}	
+.link-text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+a.link-text-roll:active,
+a.link-text-roll:visited, 
+a.link-text-roll:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+a.link-text-roll:hover {
+	color: #009900;
+}
+a.assignatura:active,
+a.assignatura:visited, 
+a.assignatura:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+a.assignatura:hover {
+	color: #009900;
+}
+a.assignatura_selec:active,
+a.assignatura_selec:visited, 
+a.assignatura_selec:link{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FF443D;
+	text-decoration: none;
+}
+a.assignatura_selec:hover {
+	color: #009900;
+}
+.submit,
+.boto {
+	background:#009900;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #ffffff;
+	border: 1px solid #ffffff;
+	padding: 2px;
+	margin : 2px;
+}
+
+.submit2 {
+	background:#009900;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #ffffff;
+	border: 1px solid #ffffff;
+	padding: 10px, 75px;
+	margin : 2px;
+}
+
+
+.titols-contingut {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+.titulars {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+}
+a.titulars:active, 
+a.titulars:visited,
+a.titulars:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+}
+a.titulars:hover {
+	color: #009900;
+}
+.fondo-taula-resultat {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+	background-color: #F2F2F2;
+}
+.fondo-taula-titol {
+	background-color: #DAEED2;
+}
+.caixeti_compte_enrera {
+	border:0px; 
+	color: #666666; 
+	text-align:center;
+	margin:2px;
+	padding:0px;
+	height:12px;
+	font-size: 11px;
+}
+.textos {
+	font-family: Courier,Verdana,Arial;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+}
+
+// Inici agenda
+
+.ag_titol{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#D0D0D0;
+	font-size:17px;
+	color:#333333;
+	font-weight:bold;
+}
+
+.ag_titolavis{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#333333;
+	background-color:#FFFFFF;  
+	font-size:11px;
+	border-style:solid;
+  	border-width:0px;
+}
+
+.ag_titolavis2{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#D0D0D0; 
+	color: #333333; 
+	font-size:11px;
+	border-style:solid;
+  	border-width:0px;
+}
+
+.ag_titolavistancat{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#D0D0D0; 
+	color:#333333; 
+	font-style: italic;
+	font-size:11px;
+}
+
+.ag_capcalavisos{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#F0F0F0; 
+	color:#333333; 
+	font-size:11px;
+	border-style:solid;
+	border-color:#000000;
+}
+
+.ag_noavisos{   
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size:11pt;   
+  border-style:solid;
+  border-color:#333333;
+  border-width:3px;
+}
+
+.ag_quadretext{   
+ 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#f2f2f2; 
+	color:#666666; 
+	font-size:11px;
+	border-style:solid;
+	border-width:0px; 
+}
+
+.ag_quadretext2{ 
+  	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#f2f2f2; 
+	color:#666666; 
+	font-size:11px;
+	border-style:solid;
+	border-width:0px;  
+}
+
+.ag_textarea{ 
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size:11pt; 
+  background-color:#f2f2f2; 
+  border-style:inset; 
+  border-width:0px; 
+  color:#666666; 
+}
+
+.ag_textarea2{ 
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size:11pt; 
+  background-color:#FFFFFF; 
+  border-style:inset;
+  border-color:#666666;  
+  border-width:1px; 
+  color:#333333; 
+}
+.ag_capcalform{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#D0D0D0; 
+	color:#FFFFFF; 
+	font-size:11px;
+}
+
+.ag_textavis{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#f2f2f2; 
+	color:#666666; 
+	font-size:11px;
+	border-style:solid;
+	border-width:0px;
+}
+
+.ag_textavistancat{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#f2f2f2; 
+	color:#666666; 
+	font-size:11px;
+	border-style:solid;
+	border-width:0px;
+}
+
+.ag_desplegable
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF; 
+	font-size:11px;
+}
+
+a.ag_desplegable:link,
+a.ag_desplegable:visited
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	font-size:11px;
+	cursor:hand;
+	text-decoration:none;
+}
+
+.ag_taulaagenda
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#FFFFFF; 	
+	color:#666666;
+	border-color:#FFFFFF;
+	border-width:3px;
+}
+
+.ag_capcaltaula
+{
+	font-family: Arial, Helvetica,sans-serif;
+	background-color:#2F2F2F; 
+	color:#FFFFFF; 
+	font-size:14px;
+}
+
+.ag_diessetmana
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#626260; 
+	color:#FFFFFF; 
+	font-size:12px;
+	border-color:#FFFFFF;
+	border-width:3px;
+}
+
+.ag_diapervenir
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#666666; 
+	font-size:12px;
+	border-style:solid;
+	border-width:thin;
+	border-color:#FFFFFF;
+}
+
+.ag_avui
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#FF0000; 
+	border-color:#FF0000;
+	border-style:solid;
+	border-width:thin;
+	font-size:12px;
+}
+
+.ag_diapassat
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#666666; 
+	font-size:12px;
+	font-style: italic;
+	text-decoration: line-through;
+	text-align: center;
+	border-style:solid;
+	border-width:thin;
+	border-color:#FFFFFF;
+}
+
+a.linkavui:link,
+a.linkavui:visited
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FF0000;
+	font-weight: bold;
+	font-size:12px;
+	cursor:hand;
+	text-decoration: none;
+}
+
+a.agenda:link,
+a.agenda:visited
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size:12px;
+	cursor:hand;
+	text-decoration: none;
+}
+
+a.ag_fletxes:link,
+a.ag_fletxes:visited
+{
+	font-family: Arial, sans-serif;
+	background-color:#2F2F2F; 
+	color:#FFFFFF; 
+	font-size:20px;
+	cursor:hand;
+	text-decoration: none;
+}
+
+.visible2 {    
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+}
+}
+
+.visible {
+        color: #000000;
+}
+
+.invisible {
+        display:none;
+}
+
+//Inici glossari
+.glos_lletra
+{
+	color: #009900;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+a.glos_lletra:link, a.glos_lletra:visited
+{
+	color: #009900;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+a.glos_lletra:hover
+{
+	color: #FF443D;
+	text-decoration: none;
+}
+
+.glos_inicial {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #009900;
+	font-size: 35px;
+	font-weight: 600;
+}
+
+.glos_bar
+{
+	color: #009900;
+}
+
+.glos_paraula
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #666666;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.glos_principi
+{
+	color: #009900;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 12px;
+}
+a.glos_principi:link, a.glos_principi:visited
+{
+	color: #009900;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+a.glos_principi:hover
+{
+	color: #FF443D;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.glos_taula
+{
+	border: 1px solid #ececec;
+	background-color: #DAEED2;
+}
+
+a.glos_companys:link, a.glos_companys:visited
+{
+	color: #009900;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+}
+a.glos_companys:hover
+{
+	color: #FF443D;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+.glos_mod
+{
+	color: #009900;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+}
+
+a.glos_mod:link, a.glos_mod:visited
+{
+	color: #009900;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+a.glos_mod:hover
+{
+	color: #FF443D;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.deseleccionat 
+{
+	background-color: none;
+}
+
+.seleccionat 
+{
+	background-color: #DAEED2;
+}
+
+.minitext {
+  font: normal 0.7em Arial, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #00AA55;
+}
+
+.disable {
+  background-color: #CF110C;
+  color: #fff;
+  font-weight: bold;
+  padding: 5px;
+}
+
+/** Estils de les activitats d'infermeria, color blau per defecte**/
+
+.textinf {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	text-align: justify;
+}
+
+.titolinf {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #71B9D5;
+	text-decoration: none;
+}
+
+.titolinf_nv2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #71B9D5;
+	text-decoration: none;
+}
+
+.llistainf {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+
+
+.titolunitat{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #bde7ff;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#bde7ff', endColorstr = '#bde7ff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr = '#bde7ff', endColorstr = '#bde7ff')";*/
+	background-image: -moz-linear-gradient(top, #bde7ff, #bde7ff);
+	background-image: -ms-linear-gradient(top, #bde7ff, #bde7ff);
+	background-image: -o-linear-gradient(top, #bde7ff, #bde7ff);
+	background-image: -webkit-gradient(linear, 0, 0, from(#bde7ff), to(#bde7ff));
+	background-image: -webkit-linear-gradient(top, #bde7ff, #bde7ff);
+	background-image: linear-gradient(top, #bde7ff, #bde7ff);
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+
+.taulainf{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #bde7ff;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#bde7ff', endColorstr = '#bde7ff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr = '#bde7ff', endColorstr = '#bde7ff')";*/
+	background-image: -moz-linear-gradient(top, #bde7ff, #bde7ff);
+	background-image: -ms-linear-gradient(top, #bde7ff, #bde7ff);
+	background-image: -o-linear-gradient(top, #bde7ff, #bde7ff);
+	background-image: -webkit-gradient(linear, 0, 0, from(#bde7ff), to(#bde7ff));
+	background-image: -webkit-linear-gradient(top, #bde7ff, #bde7ff);
+	background-image: linear-gradient(top, #bde7ff, #bde7ff);
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.taulabuidainf{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	border: 2px solid #71B9D5;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+/** Mateixos elements pero amb color marro */
+.titolunitat_marro{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #C9C4AD;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	background-image: -moz-linear-gradient(top, #C9C4AD, #C9C4AD);
+	background-image: -ms-linear-gradient(top, #C9C4AD, #C9C4AD);
+	background-image: -o-linear-gradient(top, #C9C4AD, #C9C4AD);
+	background-image: -webkit-gradient(linear, 0, 0, from(#C9C4AD), to(#C9C4AD));
+	background-image: -webkit-linear-gradient(top, #C9C4AD, #C9C4AD);
+	background-image: linear-gradient(top, #C9C4AD, #C9C4AD);
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.taulainf_marro{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #C9C4AD;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	background-image: -moz-linear-gradient(top, #C9C4AD, #C9C4AD);
+	background-image: -ms-linear-gradient(top, #C9C4AD, #C9C4AD);
+	background-image: -o-linear-gradient(top, #C9C4AD, #C9C4AD);
+	background-image: -webkit-gradient(linear, 0, 0, from(#C9C4AD), to(#C9C4AD));
+	background-image: -webkit-linear-gradient(top, #C9C4AD, #C9C4AD);
+	background-image: linear-gradient(top, #C9C4AD, #C9C4AD);
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.taulabuidainf_marro{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	border: 2px solid #C9C4AD;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.titolinf_marro {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #C9C4AD;
+	text-decoration: none;
+}
+
+/** Mateixos elements pero amb color lila */
+.titolunitat_lila{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #D7B5F2;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	background-image: -moz-linear-gradient(top, #D7B5F2, #D7B5F2);
+	background-image: -ms-linear-gradient(top, #D7B5F2, #D7B5F2);
+	background-image: -o-linear-gradient(top, #D7B5F2, #D7B5F2);
+	background-image: -webkit-gradient(linear, 0, 0, from(#D7B5F2), to(#D7B5F2));
+	background-image: -webkit-linear-gradient(top, #D7B5F2, #D7B5F2);
+	background-image: linear-gradient(top, #D7B5F2, #D7B5F2);
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.taulainf_lila{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #D7B5F2;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	background-image: -moz-linear-gradient(top, #D7B5F2, #D7B5F2);
+	background-image: -ms-linear-gradient(top, #D7B5F2, #D7B5F2);
+	background-image: -o-linear-gradient(top, #D7B5F2, #D7B5F2);
+	background-image: -webkit-gradient(linear, 0, 0, from(#D7B5F2), to(#D7B5F2));
+	background-image: -webkit-linear-gradient(top, #D7B5F2, #D7B5F2);
+	background-image: linear-gradient(top, #D7B5F2, #D7B5F2);
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.taulabuidainf_lila{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	border: 2px solid #D7B5F2;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.titolinf_lila {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #D7B5F2;
+	text-decoration: none;
+}
+
+/** Mateixos elements pero amb color rosa */
+.titolunitat_rosa{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #D8ADEF;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	background-image: -moz-linear-gradient(top, #D8ADEF, #D8ADEF);
+	background-image: -ms-linear-gradient(top, #D8ADEF, #D8ADEF);
+	background-image: -o-linear-gradient(top, #D8ADEF, #D8ADEF);
+	background-image: -webkit-gradient(linear, 0, 0, from(#D8ADEF), to(#D8ADEF));
+	background-image: -webkit-linear-gradient(top, #D8ADEF, #D8ADEF);
+	background-image: linear-gradient(top, #D8ADEF, #D8ADEF);
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.taulainf_rosa{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #D8ADEF;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	background-image: -moz-linear-gradient(top, #D8ADEF, #D8ADEF);
+	background-image: -ms-linear-gradient(top, #D8ADEF, #D8ADEF);
+	background-image: -o-linear-gradient(top, #D8ADEF, #D8ADEF);
+	background-image: -webkit-gradient(linear, 0, 0, from(#D8ADEF), to(#D8ADEF));
+	background-image: -webkit-linear-gradient(top, #D8ADEF, #D8ADEF);
+	background-image: linear-gradient(top, #D8ADEF, #D8ADEF);
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.taulabuidainf_rosa{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	border: 2px solid #D8ADEF;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.titolinf_rosa {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #D8ADEF;
+	text-decoration: none;
+}
+
+.titolinf_nv2_rosa {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #D8ADEF;
+	text-decoration: none;
+}
+
+/** Mateixos elements pero amb color vermell, modul 8 */
+.titolunitat_vermell{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #D99594;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	background-image: -moz-linear-gradient(top, #D99594, #D99594);
+	background-image: -ms-linear-gradient(top, #D99594, #D99594);
+	background-image: -o-linear-gradient(top, #D99594, #D99594);
+	background-image: -webkit-gradient(linear, 0, 0, from(#D99594), to(#D99594));
+	background-image: -webkit-linear-gradient(top, #D99594, #D99594);
+	background-image: linear-gradient(top, #D99594, #D99594);
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.taulainf_vermell{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #D99594;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	background-image: -moz-linear-gradient(top, #D99594, #D99594);
+	background-image: -ms-linear-gradient(top, #D99594, #D99594);
+	background-image: -o-linear-gradient(top, #D99594, #D99594);
+	background-image: -webkit-gradient(linear, 0, 0, from(#D99594), to(#D99594));
+	background-image: -webkit-linear-gradient(top, #D99594, #D99594);
+	background-image: linear-gradient(top, #D99594, #D99594);
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.taulabuidainf_vermell{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	border: 2px solid #D99594;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.titolinf_vermell {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #D99594;
+	text-decoration: none;
+}
+/** Estils amb color verd */
+.titolunitat_verd{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #92D050;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	background-image: -moz-linear-gradient(top, #92D050, #92D050);
+	background-image: -ms-linear-gradient(top, #92D050, #92D050);
+	background-image: -o-linear-gradient(top, #92D050, #92D050);
+	background-image: -webkit-gradient(linear, 0, 0, from(#92D050), to(#92D050));
+	background-image: -webkit-linear-gradient(top, #92D050, #92D050);
+	background-image: linear-gradient(top, #92D050, #92D050);
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.taulainf_verd{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #92D050;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	background-image: -moz-linear-gradient(top, #92D050, #92D050);
+	background-image: -ms-linear-gradient(top, #92D050, #92D050);
+	background-image: -o-linear-gradient(top, #92D050, #92D050);
+	background-image: -webkit-gradient(linear, 0, 0, from(#92D050), to(#92D050));
+	background-image: -webkit-linear-gradient(top, #92D050, #92D050);
+	background-image: linear-gradient(top, #92D050, #92D050);
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.taulainf_verd{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #92D050;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	background-image: -moz-linear-gradient(top, #92D050, #92D050);
+	background-image: -ms-linear-gradient(top, #92D050, #92D050);
+	background-image: -o-linear-gradient(top, #92D050, #92D050);
+	background-image: -webkit-gradient(linear, 0, 0, from(#92D050), to(#92D050));
+	background-image: -webkit-linear-gradient(top, #92D050, #92D050);
+	background-image: linear-gradient(top, #92D050, #92D050);
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.taulabuidainf_verd{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	border: 2px solid #92D050;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.titolinf_verd {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #92D050;
+	text-decoration: none;
+}
+
+.titolinf_nv2_verd {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #92D050;
+	text-decoration: none;
+}
+
+/*Estils amb taronja*/
+.titolunitat_taronja{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #FFC90E;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	background-image: -moz-linear-gradient(top, #FFC90E, #FFC90E);
+	background-image: -ms-linear-gradient(top, #FFC90E, #FFC90E);
+	background-image: -o-linear-gradient(top, #FFC90E, #FFC90E);
+	background-image: -webkit-gradient(linear, 0, 0, from(#FFC90E), to(#FFC90E));
+	background-image: -webkit-linear-gradient(top, #FFC90E, #FFC90E);
+	background-image: linear-gradient(top, #FFC90E, #FFC90E);
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.taulainf_taronja{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #FFC90E;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	background-image: -moz-linear-gradient(top, #FFC90E, #FFC90E);
+	background-image: -ms-linear-gradient(top, #FFC90E, #FFC90E);
+	background-image: -o-linear-gradient(top, #FFC90E, #FFC90E);
+	background-image: -webkit-gradient(linear, 0, 0, from(#FFC90E), to(#FFC90E));
+	background-image: -webkit-linear-gradient(top, #FFC90E, #FFC90E);
+	background-image: linear-gradient(top, #FFC90E, #FFC90E);
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.taulabuidainf_taronja{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	border: 2px solid #FFC90E;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	-moz-box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.titolinf_taronja {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFC90E;
+	text-decoration: none;
+}
+
+/* Estil taules HTML dels enunciats tipus XML */
+
+.taula_pregunta {
+	border: 1px solid #ececec;
+	border-spacing: 3px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #666666;		
+}
+
+.taula_pregunta th, .taula_pregunta td  {
+	padding: 4px 10px;
+}
+
+.taula_pregunta td {
+	font-size: 11px;
+	background-color: #F2F2F2;
+}
+
+.taula_pregunta th {
+	background-color: #DAEED2;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+/* Fi estil taules HTML dels enunciats tipus XML */

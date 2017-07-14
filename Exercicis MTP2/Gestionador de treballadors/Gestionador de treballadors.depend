@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1189864956 source:c:\temp\prova\gestionador de treballadors\main.cpp
+	<iostream>
+
+1456837317 source:c:\temp\prova\gestionador de treballadors\treballador.cpp
+	<iostream>
+	"Treballador.h"
+
+1456837273 c:\temp\prova\gestionador de treballadors\treballador.h
+	<string>
+	"Data.h"
+
+1456836978 c:\temp\prova\gestionador de treballadors\data.h
+
+1456836931 source:c:\temp\prova\gestionador de treballadors\data.cpp
+	"Data.h"
+	<iostream>
+
+1457635373 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\gestionador de treballadors\data.cpp
+	"Data.h"
+	<iostream>
+
+1457024561 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\gestionador de treballadors\data.h
+
+1457635420 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\gestionador de treballadors\main.cpp
+	<iostream>
+	"Treballador.h"
+
+1456837274 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\gestionador de treballadors\treballador.h
+	<string>
+	"Data.h"
+
+1457634895 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\gestionador de treballadors\treballador.cpp
+	<iostream>
+	"Treballador.h"
+

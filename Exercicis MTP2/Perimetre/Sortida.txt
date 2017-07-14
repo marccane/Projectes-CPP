@@ -1,0 +1,25 @@
+Entra x: 1
+Entra y: 0
+Entra x: 0
+Entra y: 1
+Entra x: 0
+Entra y: 2
+Entra x: 1
+Entra y: 3
+Entra x: 2
+Entra y: 3
+Entra x: 3
+Entra y: 2
+Entra x: 3
+Entra y: 1
+Entra x: 2
+Entra y: 0
+Entra x: 1
+Entra y: 0
+El perímetre és: 9.65685
+
+Process returned 0 (0x0)   execution time : 23.859 s
+Press any key to continue.
+
+
+*La figura era un hexagon regular i el seu perímetre és de 4+4*Sqrt(2) que és el resultat que dona

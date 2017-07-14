@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1475612039 source:c:\users\markus\tempc\generic class test\cuaestatica.cpp
+	"CuaEstatica.h"
+	<iostream>
+
+1474960878 c:\users\markus\tempc\generic class test\cuaestatica.h
+	"Cua.h"
+
+1475611198 c:\users\markus\tempc\generic class test\cua.h
+
+1475612212 source:c:\users\markus\tempc\generic class test\main.cpp
+	<iostream>
+	"CuaEstatica.h"
+

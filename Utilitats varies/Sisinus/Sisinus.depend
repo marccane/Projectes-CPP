@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415046780 source:c:\users\marc\desktop\sisinus\main.cpp
+	<iostream>
+	<iomanip>
+

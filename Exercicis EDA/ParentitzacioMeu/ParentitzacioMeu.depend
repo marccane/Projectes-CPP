@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1475277506 source:c:\users\markus\tempc\parentitzaciomeu\main.cpp
+	<iostream>
+	"PilaChar.h"
+
+1475275120 source:c:\users\markus\tempc\parentitzaciomeu\pilachar.cpp
+	"PilaChar.h"
+	<iostream>
+
+1475268015 c:\users\markus\tempc\parentitzaciomeu\pilachar.h
+

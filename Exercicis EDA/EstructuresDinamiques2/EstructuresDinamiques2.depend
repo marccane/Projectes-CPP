@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1475324148 source:c:\users\markus\tempc\estructuresdinamiques2\estructuradinamica.cpp
+	<cstdlib>
+	<iostream>
+	"estructuraDinamica.h"
+
+1475314522 c:\users\markus\tempc\estructuresdinamiques2\estructuradinamica.h
+	<cstdlib>
+	<iostream>
+
+1475324163 source:c:\users\markus\tempc\estructuresdinamiques2\main.cpp
+	<iostream>
+	"estructuraDinamica.h"
+

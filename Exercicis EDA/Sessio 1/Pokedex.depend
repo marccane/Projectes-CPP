@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1475943937 source:c:\users\markus\tempc\pokedex\main.cpp
+	<iostream>
+	"Pokedex.h"
+
+1476278338 c:\users\markus\tempc\pokedex\pokedex.h
+	<vector>
+	"Pokemon.h"
+
+1476278448 c:\users\markus\tempc\pokedex\pokemon.h
+	<string>
+
+1476265972 source:c:\users\markus\tempc\pokedex\pokedex.cpp
+	"Pokedex.h"
+	<iostream>
+
+1476271284 source:c:\users\markus\tempc\pokedex\pokemon.cpp
+	"Pokemon.h"
+	<iostream>
+

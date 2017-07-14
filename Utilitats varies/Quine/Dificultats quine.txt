@@ -1,0 +1,15 @@
+Dificultats/entrebancs del quine en c++: (després de ferlo)
+-Com faig un Quine?
+-Com escric un tros de text sense escriure'l literalment?
+-Com ho faig per "no haver d'escriure" el tros de text?
+-Perquè hi ha d'haver la llibreria? Segur que hi ha alguna manera per treurela (no hi és)
+-Com ho faig per escriure tooots aquests números si cada cop que n'escric un empleno més el codi?
+-Com converteixo a ascii?
+-Com faig espais/salts de linia?
+-Com trec aquesta coma que em molesta tant del final del cout sense augmentar la complexitat del codi (no afegir un if)?
+-Com trec els residus del final d'escriure un array de caràcters?
+-Com se quantes iteracions ha de fer el bucle d'escriure, si encara no se quants caràcters ha d'escriure?
+-Com ho faig perquè quedi el mateix format al codi i a la sortida?
+~aka com ho faig per posar endls per aqui mig sense embolicar-ho molt?
+
+

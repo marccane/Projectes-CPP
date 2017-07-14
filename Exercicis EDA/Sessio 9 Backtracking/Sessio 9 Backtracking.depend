@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1483124422 source:c:\users\markus\tempc\sessio 9 backtracking\candidat.cpp
+	"Candidat.h"
+	<iostream>
+
+1483107596 c:\users\markus\tempc\sessio 9 backtracking\candidat.h
+
+1483124475 source:c:\users\markus\tempc\sessio 9 backtracking\main.cpp
+	<iostream>
+	<fstream>
+	"Solucio.h"
+	"Solucionador.h"
+
+1483105474 c:\users\markus\tempc\sessio 9 backtracking\solucio.h
+	"Candidat.h"
+	<vector>
+
+1482932578 c:\users\markus\tempc\sessio 9 backtracking\solucionador.h
+	"Solucio.h"
+	"Candidat.h"
+
+1483125677 source:c:\users\markus\tempc\sessio 9 backtracking\solucio.cpp
+	"Solucio.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1483108050 source:c:\users\markus\tempc\sessio 9 backtracking\solucionador.cpp
+	"Solucionador.h"
+	<iostream>
+	"Solucio.h"
+
+1482932522 c:\users\markus\tempc\sessio 9 backtracking\posicio.h
+
+1482932522 source:c:\users\markus\tempc\sessio 9 backtracking\posicio.cpp
+	"Posicio.h"
+

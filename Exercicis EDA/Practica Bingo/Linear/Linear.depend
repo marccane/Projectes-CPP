@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1481296158 source:c:\users\markus\tempc\linear\contenidor.cpp
+	"Contenidor.h"
+	<sstream>
+
+1481321995 c:\users\markus\tempc\linear\contenidor.h
+	<string>
+	<vector>
+	<list>
+
+1481295507 source:c:\users\markus\tempc\linear\main.cpp
+	<iostream>
+	<algorithm>
+	"Contenidor.h"
+

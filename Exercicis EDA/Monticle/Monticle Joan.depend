@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476471259 source:c:\users\markus\tempc\monticle joan\main.cpp
+	<iostream>
+	"Monticle.h"
+
+1476471182 source:c:\users\markus\tempc\monticle joan\monticle.cpp
+	"Monticle.h"
+	<iostream>
+
+1476470483 c:\users\markus\tempc\monticle joan\monticle.h
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1481296158 source:c:\users\markus\tempc\constant\contenidor.cpp
+	"Contenidor.h"
+	<sstream>
+
+1481293897 c:\users\markus\tempc\constant\contenidor.h
+	<string>
+	<vector>
+	<list>
+

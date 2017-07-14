@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1477250605 source:c:\users\markus\tempc\arbresbinaris1\main.cpp
+	<iostream>
+	"ArbreBinari.h"
+
+1477149597 c:\users\markus\tempc\arbresbinaris1\arbrebinari.h
+	<cstdlib>
+
+1477250851 source:c:\users\markus\tempc\arbresbinaris1\arbrebinari.cpp
+	<iostream>
+	"ArbreBinari.h"
+

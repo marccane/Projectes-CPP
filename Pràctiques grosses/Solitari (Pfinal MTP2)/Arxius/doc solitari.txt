@@ -1,0 +1,35 @@
+1 2 3 4 5 6 7 8 9 10 11 12 13
+A                 D  J  Q  K
+
+P c d T
+n v v n
+
+piles de pals
+
+
+    //Pre: --
+    //Post:
+
+
+
+Isma Info, [25.05.16 21:23]
+(0,7*A1+0,3*L1)*0,3+(0,7*A2+0,3*L2)*0,3+0,6*A3+0,4*L3)*0,4
+
+Markus, [25.05.16 21:23]
+??????????????
+
+Isma Info, [25.05.16 21:23]
+PONDERACIONS FIE
+
+Teng Liu, [25.05.16 21:23]
+pq aquest tinc 4,2
+
+Isma Info, [25.05.16 21:24]
+on As son examens i Ls son labs
+
+Isma Info, [25.05.16 21:24]
+l1 i l2 stan al pdf
+
+si tu me robah el dni io tambien: dni lewis 41578710T
+
+

@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1476998912 source:c:\users\markus\tempc\sessio2\joc.cpp
+	"Joc.h"
+	<iostream>
+	"Usuari.h"
+
+1476999765 c:\users\markus\tempc\sessio2\joc.h
+	<iostream>
+	<list>
+	"Usuari.h"
+	"Pokedex.h"
+
+1476999765 c:\users\markus\tempc\sessio2\usuari.h
+	<iostream>
+	<list>
+
+1476528934 c:\users\markus\tempc\sessio2\pokedex.h
+	<vector>
+	"Pokemon.h"
+
+1476528934 c:\users\markus\tempc\sessio2\pokemon.h
+	<string>
+
+1476982542 source:c:\users\markus\tempc\sessio2\main.cpp
+	<iostream>
+	"Pokedex.h"
+	"Joc.h"
+
+1476528934 source:c:\users\markus\tempc\sessio2\pokedex.cpp
+	"Pokedex.h"
+	<iostream>
+
+1476528934 source:c:\users\markus\tempc\sessio2\pokemon.cpp
+	"Pokemon.h"
+	<iostream>
+
+1476999284 source:c:\users\markus\tempc\sessio2\usuari.cpp
+	"Usuari.h"
+	<iostream>
+
+1477611676 source:c:\users\markus\tempc\sessio3\joc.cpp
+	"Joc.h"
+	<iostream>
+	"Usuari.h"
+
+1477611676 c:\users\markus\tempc\sessio3\joc.h
+	<iostream>
+	<list>
+	"Usuari.h"
+	"Pokedex.h"
+
+1477610937 c:\users\markus\tempc\sessio3\usuari.h
+	<iostream>
+	<set>
+	"Exemplar.h"
+
+1477610937 c:\users\markus\tempc\sessio3\pokedex.h
+	<map>
+	"Pokemon.h"
+
+1477611998 c:\users\markus\tempc\sessio3\pokemon.h
+	<string>
+
+1477611676 source:c:\users\markus\tempc\sessio3\main.cpp
+	"Joc.h"
+
+1477611676 source:c:\users\markus\tempc\sessio3\pokedex.cpp
+	"Pokedex.h"
+	<iostream>
+
+1477610937 source:c:\users\markus\tempc\sessio3\pokemon.cpp
+	"Pokemon.h"
+	<iostream>
+
+1477611676 source:c:\users\markus\tempc\sessio3\usuari.cpp
+	"Usuari.h"
+	<iostream>
+
+1477611676 c:\users\markus\tempc\sessio3\exemplar.h
+	<iostream>
+
+1477610937 source:c:\users\markus\tempc\sessio3\exemplar.cpp
+	"Exemplar.h"
+

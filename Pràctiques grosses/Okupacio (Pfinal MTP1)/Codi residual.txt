@@ -1,0 +1,41 @@
+ while(i<tauler1.files+2){
+        lletraset=false;
+        possible=true;
+        j=2;
+        while(j<tauler1.columnes+2 and possible){
+            if(tauler1.mapa[j][i]==' ')possible=false;
+             else if(!lletraset){
+                if(tauler1.mapa[j][i]!=' ' and tauler1.mapa[j][i]!='#'){
+                    lletra=tauler1.mapa[j][i];
+                    lletraset=true;
+                }
+            }
+            else if(tauler1.mapa[j][i]!='#' and tauler1.mapa[j][i]!=lletra)
+                possible=false;
+            j++;
+        }
+        if(possible)
+            if(C_files[lletra-'A']=='*')
+                C_files[lletra-'A']=i-2+'a';
+        i++;
+    }
+    i=2;
+    while(i<tauler1.columnes+2 and !trobat){
+        lletraset=false;
+        possible=true;
+        j=2;
+        while(j<tauler1.files+2 and possible){
+            if(tauler1.mapa[i][j]==' ')possible=false;
+            if(!lletraset){
+                if(tauler1.mapa[i][j]!=' ' and tauler1.mapa[i][j]!='#'){
+                    lletra=tauler1.mapa[i][j];
+                    lletraset=true;
+                }
+            }
+            else if(tauler1.mapa[i][j]!='#' and tauler1.mapa[i][j]!=lletra)
+                possible=false;
+            j++;
+        }
+        if(possible and C_files[lletra-'A']!=0)trobat=true;
+        i++;
+    }

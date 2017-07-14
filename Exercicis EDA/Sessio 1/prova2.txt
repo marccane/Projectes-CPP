@@ -1,0 +1,106 @@
+10
+Caterpie
+Bug
+0
+1
+13
+Weedle
+Bug Poison
+0
+1
+16
+Pidgey
+Normal Flying
+0
+1
+1
+Bulbasaur
+Grass Poison
+0
+1
+19
+Rattata
+Normal
+0
+1
+20
+Raticate
+Normal
+0
+1
+21
+Spearrow
+Normal Flying
+0
+1
+23
+Ekans
+Poison
+0
+2
+29
+Nidoran femella
+Poison
+0
+1
+32
+Nidoran mascle
+Poison
+0
+1
+46
+Paras
+Bug Grass
+0
+1
+04
+Psyduck
+Water
+0
+1
+63
+Abra
+Psychic
+0
+1
+84
+Doduo
+Normal Flying
+0
+1
+17
+Pidgeotto
+Normal Flying
+0
+1
+98
+Krabby
+Water
+0
+1
+102
+Exeggcute
+Grass Psychic
+0
+1
+120
+Staryu
+Water
+0
+1
+133
+Eevee
+Normal
+0
+1
+129
+Magikarp
+Water
+0
+1
+41
+Zubat
+Poison Flying
+0
+1
+0

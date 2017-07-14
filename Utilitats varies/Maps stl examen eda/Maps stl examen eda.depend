@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486305860 source:c:\users\markus\tempc\maps stl examen eda\main.cpp
+	<iostream>
+	<map>
+

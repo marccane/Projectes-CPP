@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1475660201 source:c:\users\markus\tempc\arbre1\main.cpp
+	<iostream>
+	"ArbreBinariDinamic.h"
+
+1475659644 source:c:\users\markus\tempc\arbre1\arbrebinaridinamic.cpp
+	"ArbreBinariDinamic.h"
+	<iostream>
+
+1475659644 c:\users\markus\tempc\arbre1\arbrebinaridinamic.h
+	"ArbreBinari.h"
+
+1475625616 c:\users\markus\tempc\arbre1\arbrebinari.h
+

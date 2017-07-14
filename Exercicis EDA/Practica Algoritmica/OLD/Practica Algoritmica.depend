@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1485194798 source:c:\users\markus\tempc\practica algoritmica\candidat.cpp
+	"Candidat.h"
+	<iostream>
+
+1485032494 c:\users\markus\tempc\practica algoritmica\candidat.h
+
+1485215387 source:c:\users\markus\tempc\practica algoritmica\grafvmap.cpp
+	"GrafVMap.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1485047603 c:\users\markus\tempc\practica algoritmica\grafvmap.h
+	<vector>
+	<map>
+	<fstream>
+
+1485209110 source:c:\users\markus\tempc\practica algoritmica\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Solucio.h"
+	"Solucionador.h"
+
+1485209224 c:\users\markus\tempc\practica algoritmica\solucio.h
+	"Candidat.h"
+	"GrafVMap.h"
+	<vector>
+
+1485209224 source:c:\users\markus\tempc\practica algoritmica\solucio.cpp
+	"Solucio.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1485209236 source:c:\users\markus\tempc\practica algoritmica\solucionador.cpp
+	"Solucionador.h"
+	<iostream>
+	"Solucio.h"
+
+1485195134 c:\users\markus\tempc\practica algoritmica\solucionador.h
+	"Solucio.h"
+	"Candidat.h"
+

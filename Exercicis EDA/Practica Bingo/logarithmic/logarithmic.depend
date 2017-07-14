@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1481296158 source:c:\users\markus\tempc\logarithmic\contenidor.cpp
+	"Contenidor.h"
+	<sstream>
+
+1481293897 c:\users\markus\tempc\logarithmic\contenidor.h
+	<string>
+	<vector>
+	<list>
+
+1481301484 source:c:\users\markus\tempc\logarithmic\main.cpp
+	"Contenidor.h"
+	<iostream>
+	<algorithm>
+	<map>
+

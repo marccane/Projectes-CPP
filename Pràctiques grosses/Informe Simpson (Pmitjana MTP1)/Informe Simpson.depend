@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450729318 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\informe simpson\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+

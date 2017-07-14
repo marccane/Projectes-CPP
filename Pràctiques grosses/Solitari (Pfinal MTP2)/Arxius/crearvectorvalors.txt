@@ -1,0 +1,30 @@
+versions del crearvector valors:
+
+char tempchar='1', vecvalors[13];
+    for(int i=0;i<=9;i++){
+        vecvalors[i]=tempchar;
+        tempchar++;
+    }
+    vecvalors[0]='A';
+    vecvalors[9]='D';
+    vecvalors[10]='J';
+    vecvalors[11]='Q';
+    vecvalors[12]='K';
+
+void CrearVectorValors2(char vecvalors[]){
+    char tempchar='2';
+    const char temp[]={'A','D','J','Q','K'};
+    const int temp2[]={0,9,10,11,12};
+    for(int i=1;i<10;i++){
+        vecvalors[i]=tempchar;
+        tempchar++;
+    }
+    for(int i=0;i<5;i++)vecvalors[temp2[i]]=temp[i];
+}
+
+void CrearVectorValors(char vecvalors[]){
+    const int temp[]={0,9,10,11,12};
+    const char temp2[]={'A','D','J','Q','K'};
+    for(char i='2';i<='9';i++)vecvalors[i-'1']=i;
+    for(int i=0;i<5;i++)vecvalors[temp[i]]=temp2[i];
+}

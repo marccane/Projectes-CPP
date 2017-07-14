@@ -1,0 +1,158 @@
+CampionatEDA
+10
+Caterpie
+Bug
+2.9
+0.3
+13
+Weedle
+Bug Poison
+3.2
+0.3
+16
+Pidgey
+Normal Flying
+1.8
+0.3
+1
+Bulbasaur
+Grass Poison
+6.9
+0.7
+19
+Rattata
+Normal
+3.5
+0.3
+20
+Raticate
+Mormal
+18.5
+0.7
+21
+Spearrow
+Normal Flying
+2
+0.3
+23
+Ekans
+Poison
+6.9
+2
+29
+Nidoran femella
+Poison
+7
+0.4
+32
+Nidoran mascle
+Poison
+9
+0.5
+46
+Paras
+Bug Grass
+5.4
+0.3
+54
+Psyduck
+Water
+19.6
+0.8
+63
+Abra
+Psychic
+19.5
+0.9
+84
+Doduo
+Normal Flying
+39.2
+1.4
+17
+Pidgeotto
+Normal Flying
+30
+1.1
+98
+Krabby
+Water
+6.5
+0.4
+102
+Exeggcute
+Grass Psychic
+2.5
+0.4
+120
+Staryu
+Water
+34.5
+0.8
+133
+Eevee
+Normal
+6.5
+0.3
+129
+Magikarp
+Water
+10.01
+0.76
+41
+Zubat
+Poison Flying
+7.5
+0.8
+0
+jordir
+jordi.regincos@udg.edu
+gran Staryu
+Staryu
+1500
+mini Spearrow
+Spearrow
+100
+Bulbasaur normalet
+Bulbasaur
+200
+super Magikarp
+Magikarp
+15000
+*
+miquelb
+miquel.bofill@udg.edu
+staryu --
+Staryu
+100
+Anec psicopata
+Psyduck
+150
+carpa houdini
+Magikarp
+1000
+merry weedle
+Weedle
+100
+Nidorana
+Nidoran femella
+50
+*
+joans
+joan.surell@udg.edu
+staryuet
+Staryu
+200
+Psychicuet
+Psychic
+150
+Pidgeyuet
+Pidgey
+125
+*
+*
+Pidgey
+Startyu
+Krabby
+Magikarp
+*

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1475872458 source:c:\users\markus\tempc\arbrelewis\arbrebinaridinamic.cpp
+	"ArbreBinariDinamic.h"
+	<iostream>
+
+1475870888 c:\users\markus\tempc\arbrelewis\arbrebinaridinamic.h
+	"ArbreBinari.h"
+
+1475870136 c:\users\markus\tempc\arbrelewis\arbrebinari.h
+
+1475870135 source:c:\users\markus\tempc\arbrelewis\arbrebinaridinamicchar.cpp
+	"ArbreBinariDinamic.h"
+	"ArbreBinariDinamic.cpp"
+
+1475872458 c:\users\markus\tempc\arbrelewis\arbrebinaridinamic.cpp
+	"ArbreBinariDinamic.h"
+	<iostream>
+
+1475874301 source:c:\users\markus\tempc\arbrelewis\main.cpp
+	<iostream>
+	"ArbreBinariDinamicChar.h"
+	"ArbreBinariDinamic.h"
+
+1475870134 c:\users\markus\tempc\arbrelewis\arbrebinaridinamicchar.h
+	"ArbreBinariDinamic.h"
+

@@ -1,0 +1,43 @@
+
+
+   /*! string nomarxiu, origen, desti;
+    int max_dist;
+    float max_atempt;
+    cin>>origen>>desti>>max_atempt>>max_dist>>nomarxiu;
+    //cout<<nomarxiu<<endl;
+    char nomarxiunoconst[100];
+    strcpy(nomarxiunoconst,nomarxiu.c_str());
+    Solucio sol(nomarxiunoconst,max_dist,max_atempt,origen,desti);
+    Solucionador algBack;
+    bool teSolucio = algBack.Solucionar(sol);
+    if (teSolucio)sol.mostrar();
+    else cout << "No hi ha cami que compleixi les condicions" << endl;
+*/
+
+    /*!string nomarxiu, origen, desti;
+    int max_dist;
+    float max_atempt;
+
+    cin>>origen>>desti>>max_atempt>>nomarxiu;
+    max_atempt=1;
+    char nomarxiunoconst[100];
+    strcpy(nomarxiunoconst,nomarxiu.c_str());
+    Solucio sol(nomarxiunoconst,max_dist,max_atempt,origen,desti);
+    Solucionador algBack;
+    bool teSolucio = algBack.SolucionarOptim(sol);
+    if (teSolucio)sol.mostrar();
+    else cout << "No hi ha cami que compleixi les condicions" << endl;*/
+/*!
+    string nomarxiu, origen, desti;
+    int max_dist;
+    float max_atempt;
+
+    cin>>origen>>desti>>nomarxiu;
+    char nomarxiunoconst[100];
+    strcpy(nomarxiunoconst,nomarxiu.c_str());
+    Solucio sol(nomarxiunoconst,max_dist,max_atempt,origen,desti);
+    Solucionador algBack;
+    bool teSolucio = algBack.SolucionarVorac(sol);
+    if (teSolucio)sol.mostrar();
+    else cout << "No hi ha cami que compleixi les condicions" << endl;
+*/

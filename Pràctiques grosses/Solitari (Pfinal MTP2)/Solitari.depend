@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1464553502 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\solitari\baralla.cpp
+	<cstdlib>
+	"Baralla.h"
+	"Carta.h"
+	<iostream>
+
+1464553502 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\solitari\baralla.h
+	"Carta.h"
+
+1464554846 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\solitari\carta.h
+
+1464554846 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\solitari\carta.cpp
+	"Carta.h"
+	<iostream>
+
+1464554865 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\solitari\joc.cpp
+	<iostream>
+	"Joc.h"
+	"PilaCartes.h"
+	"Tauler.h"
+	"Carta.h"
+
+1464554217 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\solitari\joc.h
+	"PilaCartes.h"
+	"Tauler.h"
+	"Carta.h"
+	"Baralla.h"
+
+1464550725 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\solitari\pilacartes.h
+	"Carta.h"
+
+1464554379 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\solitari\tauler.h
+	"Carta.h"
+	"PilaCartes.h"
+	"Baralla.h"
+
+1464545317 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\solitari\main.cpp
+	<iostream>
+	"Baralla.h"
+	"Joc.h"
+
+1464550725 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\solitari\pilacartes.cpp
+	"PilaCartes.h"
+	<iostream>
+	"Carta.h"
+
+1464553967 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\solitari\tauler.cpp
+	"Tauler.h"
+	"Baralla.h"
+	<iostream>
+

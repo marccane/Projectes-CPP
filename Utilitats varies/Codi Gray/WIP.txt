@@ -1,0 +1,55 @@
+
+void Gray(int m, int p, char mat[][1024]){
+    p=pow(2,m); //temporal
+    int u=p/2-1,t;
+
+    if(m==1){
+        mat[0][0]='0';
+        mat[0][1]='1';
+    }
+    else{
+        Gray(m-1,0,mat);
+        for(int i=0;i<p/2;i++)
+            mat[m-1][i]='0';
+        for(int i=p/2;i<p;i++)
+            mat[m-1][i]='1';
+        for(int i=p/2;i<p;i++){
+            t=u; //perquè aixo ta mal
+            for(int j=0;j<m-1;j++)
+                mat[j][i]=mat[j][t--]; //aixo no s'ha de decrementar en aquest loop
+        }
+    }
+} //no funciona
+
+ /* else{
+        Gray(m-1,0,mat);
+        for(int i=0;i<p/2;i++)
+            mat[m-1][i]='0';
+        for(int i=p/2;i<p;i++)
+            mat[m-1][i]='1';
+        int t=p/2-1;
+        for(int i=p/2;i<p;i++)
+            for(int j=0;j<m-1;j++)
+                mat[j][i]=mat[j][t--];
+    }*/ mes o menys funciona
+	
+
+void Gray(int m, int p, char mat[][1024]){
+    if(m==1){
+        mat[0][0]='0';
+        mat[0][1]='1';
+    }
+    else{
+        Gray(m-1,p/2,mat);
+        for(int i=0;i<p/2;i++)
+            mat[m-1][i]='0';
+        for(int i=p/2;i<p;i++)
+            mat[m-1][i]='1';
+        int t=p/2-1;
+        for(int i=p/2;i<p;i++){
+            for(int j=0;j<m-1;j++)
+                mat[j][i]=mat[j][t];
+            t--;
+        }
+    }
+}

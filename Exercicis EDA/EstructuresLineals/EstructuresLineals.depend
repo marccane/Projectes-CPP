@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1475780253 source:c:\users\markus\tempc\estructureslineals\cuadinamica.cpp
+	"cuaDinamica.h"
+
+1475775367 c:\users\markus\tempc\estructureslineals\cuadinamica.h
+	<cstdlib>
+	<iostream>
+
+1475782554 source:c:\users\markus\tempc\estructureslineals\main.cpp
+	<iostream>
+	"cuaDinamica.h"
+

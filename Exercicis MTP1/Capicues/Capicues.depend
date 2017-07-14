@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446408997 source:c:\users\markus\dropbox\sincronitzat\++\@wip c\capicues\main.cpp
+	<iostream>
+	<math.h>
+	<sstream>
+

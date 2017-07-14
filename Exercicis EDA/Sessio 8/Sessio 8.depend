@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1480977156 source:c:\users\markus\tempc\sessio 8\grafvmap.cpp
+	"GrafVMap.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1480976527 c:\users\markus\tempc\sessio 8\grafvmap.h
+	<vector>
+	<map>
+	<fstream>
+
+1480976850 source:c:\users\markus\tempc\sessio 8\main.cpp
+	<iostream>
+	"GrafVMap.h"
+	<queue>
+	<stack>
+

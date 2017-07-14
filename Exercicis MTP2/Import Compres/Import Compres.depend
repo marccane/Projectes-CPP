@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1457736090 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\import compres\data.cpp
+	"Data.h"
+	<iostream>
+
+1457736112 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\import compres\data.h
+
+1457735608 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\import compres\hora.cpp
+	<iostream>
+	"Hora.h"
+
+1457733553 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\import compres\hora.h
+
+1457735201 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\import compres\main.cpp
+	<iostream>
+	"Data.h"
+	"Hora.h"
+

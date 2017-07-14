@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1462027651 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\esborrar element dinàmic\llistaordenters.cpp
+	"LlistaOrdEnters.h"
+	<iostream>
+
+1461871299 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\esborrar element dinàmic\llistaordenters.h
+
+1462024136 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\esborrar element dinàmic\main.cpp
+	<iostream>
+	"LlistaOrdEnters.h"
+

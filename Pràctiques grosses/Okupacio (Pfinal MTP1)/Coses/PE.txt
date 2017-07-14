@@ -1,0 +1,20 @@
+4
+tauler4x4.txt
+ab
+bb
+db
+dc
+bc
+cc
+bd
+00
+ab
+dc
+bc
+cd
+
+
+TODO:
+minimitzar main-
+bool esmenor-
+funcio escriure control amb una funcio mes petita pk quedi curt-

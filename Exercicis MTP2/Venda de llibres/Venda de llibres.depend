@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1462052055 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\venda de llibres\llibre.cpp
+	"Llibre.h"
+	<iostream>
+
+1462052435 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\venda de llibres\llibre.h
+	<string>
+
+1462052435 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\venda de llibres\llistallibres.cpp
+	"LlistaLlibres.h"
+	"Llibre.h"
+	<iostream>
+
+1462052435 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\venda de llibres\llistallibres.h
+	"Llibre.h"
+
+1462051780 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\venda de llibres\main.cpp
+	<iostream>
+	"LlistaLlibres.h"
+	"Llibre.h"
+

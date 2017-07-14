@@ -1,0 +1,492 @@
+Exemple Entrada:
+
+NicolasOliveira    Brazil    Natacio100mLliuresMasculi
+CullenJones    USA    Natacio100mLliuresMasculi
+StefanNystrand    Suecia    Natacio100mLliuresMasculi
+FilippoMagnini    Italia    Natacio100mLliuresMasculi
+JamesMagnussen    Australia    Natacio100mLliuresMasculi
+DominikMeichtry    Suissa    Natacio100mLliuresMasculi
+LoucaDotto    Italia    Natacio100mLliuresMasculi
+BrentHayden    Canada    Natacio100mLliuresMasculi
+NikitaLobntsev    Russia    Natacio100mLliuresMasculi
+ZhiwuLu    Xina    Natacio100mLliuresMasculi
+MarcoBelotti    Italia    Natacio200mLliuresMasculi
+DominikMeichtry    Suissa    Natacio100mLliuresMasculi
+NicolasOliveira    Brazil    NatacioRelleus100m
+AlainBernard    Franca    NatacioRelleus100m
+MarcoOrsi    Italia    NatacioRelleus100m
+TengfeiShi    Xina    NatacioRelleus100m
+LucaDotto    Italia    NatacioRelleus100m
+JianbinHe    Xina    NatacioRelleus100m
+#
+m
+m
+m
+p
+e
+m
+Natacio
+e
+m
+Natacio100mLliuresMasculi
+e
+p
+Xina
+d
+TegfeiShi    Xina    NatacioRelleus100m
+d
+TengfeiShi    Xina    NatacioRelleus100m
+m
+n
+d
+TengfeiShi    Xina    NatacioRelleus100m
+m
+p
+e
+p
+Italia
+y
+s
+
+Exemple Sortida:
+
+ISCRIPCIONS ALS JOCS OLIMPICS 2012
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+CullenJones - USA - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+CullenJones - USA - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+CullenJones - USA - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+CullenJones - USA - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+BrentHayden - Canada - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+BrentHayden - Canada - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+BrentHayden - Canada - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+BrentHayden - Canada - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+MarcoBelotti - Italia - Natacio200mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+INSCRIPCIO JA FETA ANTERIORMENT
+ATLETES PARTICIPANTS:
+BrentHayden - Canada - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+MarcoBelotti - Italia - Natacio200mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+BrentHayden - Canada - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+MarcoBelotti - Italia - Natacio200mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - NatacioRelleus100m
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+AlainBernard - Franca - NatacioRelleus100m
+BrentHayden - Canada - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+MarcoBelotti - Italia - Natacio200mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - NatacioRelleus100m
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+AlainBernard - Franca - NatacioRelleus100m
+BrentHayden - Canada - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+MarcoBelotti - Italia - Natacio200mLliuresMasculi
+MarcoOrsi - Italia - NatacioRelleus100m
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - NatacioRelleus100m
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+AlainBernard - Franca - NatacioRelleus100m
+BrentHayden - Canada - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+MarcoBelotti - Italia - Natacio200mLliuresMasculi
+MarcoOrsi - Italia - NatacioRelleus100m
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - NatacioRelleus100m
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+TengfeiShi - Xina - NatacioRelleus100m
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+AlainBernard - Franca - NatacioRelleus100m
+BrentHayden - Canada - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+LucaDotto - Italia - NatacioRelleus100m
+MarcoBelotti - Italia - Natacio200mLliuresMasculi
+MarcoOrsi - Italia - NatacioRelleus100m
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - NatacioRelleus100m
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+TengfeiShi - Xina - NatacioRelleus100m
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+NOM:
+NACIONALITAT I MODALITAT:
+LA INSCRIPCIO S'HA FET CORRECTAMENT
+ATLETES PARTICIPANTS:
+AlainBernard - Franca - NatacioRelleus100m
+BrentHayden - Canada - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+JianbinHe - Xina - NatacioRelleus100m
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+LucaDotto - Italia - NatacioRelleus100m
+MarcoBelotti - Italia - Natacio200mLliuresMasculi
+MarcoOrsi - Italia - NatacioRelleus100m
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - NatacioRelleus100m
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+TengfeiShi - Xina - NatacioRelleus100m
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+NOM:
+FINAL DEL PERIODE D'INSCRIPCCIONS ALS JOCS OLIMPICS 2012
+ATLETES PARTICIPANTS:
+AlainBernard - Franca - NatacioRelleus100m
+BrentHayden - Canada - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+JianbinHe - Xina - NatacioRelleus100m
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+LucaDotto - Italia - NatacioRelleus100m
+MarcoBelotti - Italia - Natacio200mLliuresMasculi
+MarcoOrsi - Italia - NatacioRelleus100m
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - NatacioRelleus100m
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+TengfeiShi - Xina - NatacioRelleus100m
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+(m) MOSTRAR
+(e) ESCOLLIR
+(d) DESINSCRIURE
+(s) SORTIR
+(n) PER NOM
+(m) PER MODALITAT
+(p) PER PAIS
+ATLETES PARTICIPANTS:
+BrentHayden - Canada - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+MarcoBelotti - Italia - Natacio200mLliuresMasculi
+AlainBernard - Franca - NatacioRelleus100m
+JianbinHe - Xina - NatacioRelleus100m
+LucaDotto - Italia - NatacioRelleus100m
+MarcoOrsi - Italia - NatacioRelleus100m
+NicolasOliveira - Brazil - NatacioRelleus100m
+TengfeiShi - Xina - NatacioRelleus100m
+(m) MOSTRAR
+(e) ESCOLLIR
+(d) DESINSCRIURE
+(s) SORTIR
+(n) PER NOM
+(m) PER MODALITAT
+(p) PER PAIS
+ATLETES PARTICIPANTS:
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - NatacioRelleus100m
+BrentHayden - Canada - Natacio100mLliuresMasculi
+AlainBernard - Franca - NatacioRelleus100m
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+LucaDotto - Italia - NatacioRelleus100m
+MarcoBelotti - Italia - Natacio200mLliuresMasculi
+MarcoOrsi - Italia - NatacioRelleus100m
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+JianbinHe - Xina - NatacioRelleus100m
+TengfeiShi - Xina - NatacioRelleus100m
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+(m) MOSTRAR
+(e) ESCOLLIR
+(d) DESINSCRIURE
+(s) SORTIR
+(n) PER NOM
+(m) PER MODALITAT
+(p) PER PAIS
+MODALITAT A CERCAR:
+NO S'HA TOBAT CAP INSCRIPCIO AMB AQUEST CAMP
+(m) MOSTRAR
+(e) ESCOLLIR
+(d) DESINSCRIURE
+(s) SORTIR
+(n) PER NOM
+(m) PER MODALITAT
+(p) PER PAIS
+MODALITAT A CERCAR:
+ATLETES PARTICIPANTS:
+BrentHayden - Canada - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+(m) MOSTRAR
+(e) ESCOLLIR
+(d) DESINSCRIURE
+(s) SORTIR
+(n) PER NOM
+(m) PER MODALITAT
+(p) PER PAIS
+PAIS A CERCAR:
+ATLETES PARTICIPANTS:
+JianbinHe - Xina - NatacioRelleus100m
+TengfeiShi - Xina - NatacioRelleus100m
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+(m) MOSTRAR
+(e) ESCOLLIR
+(d) DESINSCRIURE
+(s) SORTIR
+NOM:
+NACIONALITAT I MODALITAT:
+L'ATLETA JA NO CONSTAVA A LA LLISTA
+(m) MOSTRAR
+(e) ESCOLLIR
+(d) DESINSCRIURE
+(s) SORTIR
+NOM:
+NACIONALITAT I MODALITAT:
+L'ATLETA S'HA DESINSCRIT
+(m) MOSTRAR
+(e) ESCOLLIR
+(d) DESINSCRIURE
+(s) SORTIR
+(n) PER NOM
+(m) PER MODALITAT
+(p) PER PAIS
+ATLETES PARTICIPANTS:
+AlainBernard - Franca - NatacioRelleus100m
+BrentHayden - Canada - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+JianbinHe - Xina - NatacioRelleus100m
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+LucaDotto - Italia - NatacioRelleus100m
+MarcoBelotti - Italia - Natacio200mLliuresMasculi
+MarcoOrsi - Italia - NatacioRelleus100m
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - NatacioRelleus100m
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+(m) MOSTRAR
+(e) ESCOLLIR
+(d) DESINSCRIURE
+(s) SORTIR
+NOM:
+NACIONALITAT I MODALITAT:
+L'ATLETA JA NO CONSTAVA A LA LLISTA
+(m) MOSTRAR
+(e) ESCOLLIR
+(d) DESINSCRIURE
+(s) SORTIR
+(n) PER NOM
+(m) PER MODALITAT
+(p) PER PAIS
+ATLETES PARTICIPANTS:
+JamesMagnussen - Australia - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - Natacio100mLliuresMasculi
+NicolasOliveira - Brazil - NatacioRelleus100m
+BrentHayden - Canada - Natacio100mLliuresMasculi
+AlainBernard - Franca - NatacioRelleus100m
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+LucaDotto - Italia - NatacioRelleus100m
+MarcoBelotti - Italia - Natacio200mLliuresMasculi
+MarcoOrsi - Italia - NatacioRelleus100m
+NikitaLobntsev - Russia - Natacio100mLliuresMasculi
+StefanNystrand - Suecia - Natacio100mLliuresMasculi
+DominikMeichtry - Suissa - Natacio100mLliuresMasculi
+CullenJones - USA - Natacio100mLliuresMasculi
+JianbinHe - Xina - NatacioRelleus100m
+ZhiwuLu - Xina - Natacio100mLliuresMasculi
+(m) MOSTRAR
+(e) ESCOLLIR
+(d) DESINSCRIURE
+(s) SORTIR
+(n) PER NOM
+(m) PER MODALITAT
+(p) PER PAIS
+PAIS A CERCAR:
+ATLETES PARTICIPANTS:
+FilippoMagnini - Italia - Natacio100mLliuresMasculi
+LoucaDotto - Italia - Natacio100mLliuresMasculi
+LucaDotto - Italia - NatacioRelleus100m
+MarcoBelotti - Italia - Natacio200mLliuresMasculi
+MarcoOrsi - Italia - NatacioRelleus100m
+(m) MOSTRAR
+(e) ESCOLLIR
+(d) DESINSCRIURE
+(s) SORTIR
+OPCIO NO VALIDA
+(m) MOSTRAR
+(e) ESCOLLIR
+(d) DESINSCRIURE
+(s) SORTIR
+US ESPEREM EL 2016!

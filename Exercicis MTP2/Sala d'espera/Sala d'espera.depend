@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1461363609 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\sala d'espera\cuapacients.cpp
+	"CuaPacients.h"
+	"Pacient.h"
+	<iostream>
+
+1461356204 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\sala d'espera\cuapacients.h
+	<string>
+	"Pacient.h"
+
+1461361684 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\sala d'espera\hora.cpp
+	<iostream>
+	"Hora.h"
+
+1461363983 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\sala d'espera\hora.h
+	<string>
+
+1461363909 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\sala d'espera\main.cpp
+	<iostream>
+	"Pacient.h"
+	"CuaPacients.h"
+
+1461363909 c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\sala d'espera\pacient.h
+	"Hora.h"
+	<string>
+
+1461361743 source:c:\users\markus\dropbox\sincronitzat\++\! meus\@wip c\sala d'espera\pacient.cpp
+	"Pacient.h"
+	<iostream>
+

@@ -1,0 +1,64 @@
+#include <iostream>
+using namespace std;
+    //project started at 31/10/14 - 22:40
+
+    int elevar(int a, int b){//base, exponent
+        int c=a;
+        for (int i=1;i<b;i++){
+            c=c*a;
+        }//end for
+        return c;
+    }//end funct elevar
+
+    long factorial(long a){//factorial fins al n=12
+        long b;
+        if (a==1){return 1;}
+        else {b=a*factorial(a-1);}//recursivitat suiii
+        return b;
+    }//end funct factorial
+
+    float sinus(float a){
+        float b=a,elev,fact;
+        int c=3;
+        for (int i=0;i<2;i++){
+            elev=elevar(a,c);
+            cout<<a<<"elevat a "<<c<<" = "<<elev<<endl;
+            fact=factorial(c);
+            cout<<"el factorial de "<<c<<"és "<<fact<<endl;
+            b=b-(elev/fact);
+            c+=2;
+            elev=elevar(a,c);
+            cout<<a<<"elevat a "<<c<<" = "<<elev<<endl;
+            fact=factorial(c);
+            cout<<"el factorial de "<<c<<"és "<<fact<<endl;1    º
+            b=b+(elev/fact);
+            c+=2;
+        }//end for
+        return b;
+    }//end funct sinus
+
+    int main(){
+        const int pi=3.1415926535;
+        int a; float b;
+        while(1<2){
+        cout<<"Tria una opcio: ";
+        cout <<"1-Rad  2-Deg  3-Exit"<<endl;
+        cout<<"Opcio: ";
+        cin>>a;
+        if (a==1){
+                cout <<"Entra l'angle del qual vols ";
+                cout<<"coneixer el sinus: ";
+                cin>>b;
+                cout<<sinus(b)<<endl;
+        }//endif 1
+        else if (a==2){
+                int h,i,j,k;
+                float l,m,n,o;
+                cin >>h>>i;
+                cout<<elevar(h,i)
+
+        }//endif-2
+        else if (a==3){return 0;}
+        else {cout<<"Nope. Try again.";}
+        }//end while loop
+}//end main

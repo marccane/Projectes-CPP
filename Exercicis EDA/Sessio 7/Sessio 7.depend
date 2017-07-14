@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1480625146 source:c:\users\markus\desktop\sessio 7\grafvlist.cpp
+	"GrafVList.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1480611903 c:\users\markus\desktop\sessio 7\grafvlist.h
+	<vector>
+	<list>
+	<fstream>
+
+1480629185 source:c:\users\markus\desktop\sessio 7\main.cpp
+	<iostream>
+	"GrafVList.h"
+	<queue>
+	<stack>
+

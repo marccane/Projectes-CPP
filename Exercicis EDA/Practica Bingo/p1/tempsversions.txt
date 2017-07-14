@@ -1,0 +1,32 @@
+-bash-4.1$ time ./linear5/linear5 < bingo.txt
+BINGO!
+Sequence length = 58596
+Winning Sequence = 21 51 72
+
+real    0m14.887s
+user    0m14.885s
+sys     0m0.001s
+-bash-4.1$ time ./linear/linear < bingo.txt
+BINGO!
+Sequence length = 58596
+Winning Sequence = 21 51 72
+
+real    1m10.002s
+user    1m9.986s
+sys     0m0.009s
+-bash-4.1$ time ./logarithmic/logarithmic < bingo.txt
+BINGO!
+Sequence length = 58596
+Winning Sequence = 21 51 72
+
+real    0m0.260s
+user    0m0.253s
+sys     0m0.006s
+-bash-4.1$ time ./constant/constant < bingo.txt
+BINGO!
+Sequence length = 58596
+Winning Sequence = 21 51 72
+
+real    0m0.187s
+user    0m0.187s
+sys     0m0.000s
